@@ -1,5 +1,5 @@
-# Aerove_Training_freshie2020
-<h1>Library used</h1>
+# System Requirements
+<h3>Library used</h3>
 <h3>TensorFlow (v2.1.0)</h3>
 <h3>OpenCV (v3.2.0.8)</h3>
 <h3>Numpy (v1.16.6)</h3>
