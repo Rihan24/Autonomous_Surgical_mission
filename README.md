@@ -12,3 +12,5 @@
 <p></p>
 
 <a href="https://docs.google.com/presentation/d/15ZFNUwxWwzRH9L-zOB1zeDnMaY8qdxDAZGL8I5dpGo8/edit#slide=id.gce72c71d58_0_130"><h1>Our Presentation</h1></a>
+<br>
+<img src="/media/areana.jpg" width="40%" height="40%"/>
