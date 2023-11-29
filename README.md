@@ -10,7 +10,6 @@
 <p>Paste the world_10.world in worlds directory of sitl_gazebo of PX4-Autopilot</p>
 <p>Add a directory named drone_image then in that add depth in src directory of sitl_gazebo of PX4-Autopilot</p>
 <p></p>
-
-<a href="https://docs.google.com/presentation/d/15ZFNUwxWwzRH9L-zOB1zeDnMaY8qdxDAZGL8I5dpGo8/edit#slide=id.gce72c71d58_0_130"><h1>Our Presentation</h1></a>
+Our Presentation can be viewed [here](https://docs.google.com/presentation/d/1nS1MCb4RNe4UrLJfv9ud0cSZyBGj14ZcscZuKrlMJLE/edit?usp=sharing)
 <br>
-<img src="/media/areana.jpg" width="40%" height="40%"/>
+<img src="/media/areana.jpg" width="60%" height="60%"/>
